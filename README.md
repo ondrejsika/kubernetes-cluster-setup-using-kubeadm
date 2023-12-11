@@ -31,6 +31,11 @@ sudo swapoff -a
 ```
 
 ```
+sudo apt-get update
+sudo apt-get install -y gnupg2
+```
+
+```
 OS="Debian_12"
 VERSION="1.28"
 
