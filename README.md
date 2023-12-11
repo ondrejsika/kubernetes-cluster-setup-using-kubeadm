@@ -1,5 +1,15 @@
 # Kubernetes Cluster Setup using Kubeadm
 
+## Quick Setup
+
+```
+curl -fsSL https://raw.githubusercontent.com/ondrejsika/kubernetes-cluster-setup-using-kubeadm/master/install.sh | sh
+```
+
+```
+curl -fsSL https://raw.githubusercontent.com/ondrejsika/kubernetes-cluster-setup-using-kubeadm/master/setup-master.sh | sh
+```
+
 ## Setup
 
 ```
